@@ -1,0 +1,31 @@
+.course-con {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.success-con {
+  padding: 40px;
+}
+
+.loader-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+.retry-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #4656a1;
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.course-head {
+  color: #1e293b;
+}
